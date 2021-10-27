@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="row">
+        <div class="col-md-6 col-md-offset-3 col-md-pull-3">
+            <span class="heading-meta">Lectura</span>
+            <h2 class="colorlib-heading animate-box" data-animate-effect="fadeInLeft">Categoria PRUEBA</h2>
+        </div>
+    </div>
+
+
+
+{% for post in site.categories.prueba %}
+
+<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+    <div class="blog-entry">
+        <a href="{{post.url}}" class="blog-img"><img src="{{post.image}}" class="img-responsive" alt="imagen POST"></a>
+        <div class="desc">
+            <span><small>{{ post.day }}</small> | <small>{{ post.author }}</small></span>
+            <h3><a href="{{post.url}}">{{ post.title }}</a></h3>
+           <!--  <p>{{ post.description }}</p> -->
+           <!--  <a href="{{post.url}}" class="lead">Ver más</a> -->
+        </div>
+    </div>
+</div>
+
+{% endfor %}
+

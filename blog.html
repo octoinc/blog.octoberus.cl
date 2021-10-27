@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+<div class="col-md-3 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+    <div class="blog-entry">
+        <a href="{{post.url}}" class="blog-img"><img src="{{post.image}}" alt="{{post.alt-image}}" class="img-responsive"></a>
+        <div class="desc">
+            <span><small>{{ post.day }}</small> | <small>{{ post.author }}</small></span>
+            <!-- <h3><a href="{{post.url}}">{{ post.title }}</a></h3>    -->
+            <p><a style="color:black"href="{{post.url}}">{{ post.title }}</a><p>
+                  <!-- <p>{{ post.description }}</p> -->
+                
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+
