@@ -6,7 +6,8 @@
   font-style: normal; 
   font-display: swap;}
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&family=Rajdhani:wght@700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&family=Rajdhani:wght@700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
 
 /* =======================================================
 *
@@ -15,7 +16,7 @@
 *
 * ======================================================= */
 body {
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-weight: 300;
   font-size: 16px;
   line-height: 1.6;
@@ -39,7 +40,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #000;
-  font-family: 'Rajdhani', sans-serif;;
+  font-family: 'Space Grotesk', sans-serif;;
   font-weight: 400;
   margin: 0 0 30px 0; }
 
@@ -53,7 +54,7 @@ figure {
     margin: 20px auto 0px auto;
     color: #b3b3b3;
     font-style: italic;
-    font-family: 'Nunito Sans', sans-serif; }
+    font-family: 'Space Grotesk', sans-serif; }
     @media screen and (max-width: 480px) {
       figure figcaption {
         width: 100%; } }
@@ -146,7 +147,7 @@ figure {
         text-decoration: none;
         position: relative;
         padding: 10px 0;
-        font-family: 'Nunito Sans', sans-serif;
+        font-family: 'Space Grotesk', sans-serif;
         -webkit-transition: 0.3s;
         -o-transition: 0.3s;
         transition: 0.3s; }
@@ -835,7 +836,7 @@ body.offcanvas {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-size: 12px;
   font-weight: 400;
   text-transform: uppercase;
