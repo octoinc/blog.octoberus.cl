@@ -15,7 +15,7 @@ alt-image-author: Foto José Catilllo
 
 <div class="row post-text">
     <div class="col-md-2"></div>
-    <div class="col-md-7">
+    <div class="col-md-8">
     <br>
 
 <p>

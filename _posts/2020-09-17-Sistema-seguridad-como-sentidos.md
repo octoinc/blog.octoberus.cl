@@ -11,7 +11,7 @@ image: /images/sistema-seguridad.png
 
 <div class="row post-text">
     <div class="col-md-2"></div>
-    <div class="col-md-7">
+    <div class="col-md-8">
     <br>
     
 <p>El resguardo de los bienes materiales siempre ha sido una prioridad. Es que obtenerlos no es sencillo, y una vez que lo hemos logrado solo pensamos en la mejor manera de protegerlos.</p>

@@ -6,8 +6,9 @@
   font-style: normal; 
   font-display: swap;}
 
-/* @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&family=Rajdhani:wght@700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&family=Rajdhani:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
 
 /* =======================================================
 *
@@ -20,18 +21,20 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.6;
-  color: rgba(0, 0, 0, 0.7); }
+  color: rgb(0, 0, 0); }
   @media screen and (max-width: 992px) {
     body {
       font-size: 16px; } }
 
 a {
-  color: #2770ca;
+  color: #f3ac06;
+  font-weight: 400;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: rgb(0, 82, 196);
+    color: #FFC600;
+    font-weight: 400;
     outline: none;
     text-decoration: none !important; }
 
@@ -88,7 +91,7 @@ figure {
   left: 0;
   overflow-y: scroll;
   z-index: 1001;
-  background: #fff;
+  background: rgb(0, 0, 0);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -117,12 +120,12 @@ figure {
         margin-bottom: 1em; } }
     #colorlib-aside #colorlib-logo a {
       display: inline-block;
-      text-align: center;
+      /* text-align: center; */
       background:  black;
       padding: .5em .8em;
       color: #fff;
-      letter-spacing: 10px;
-      padding-right: .3em; }
+      letter-spacing: 8px;
+      padding-right: 1em; }
       #colorlib-aside #colorlib-logo a span {
         display: block;
         margin-bottom: 5px;
@@ -143,7 +146,7 @@ figure {
       text-transform: uppercase;
       letter-spacing: 1px; }
       #colorlib-aside #colorlib-main-menu ul li a {
-        color: rgb(116 116 116);
+        color: #FFF;
         text-decoration: none;
         position: relative;
         padding: 10px 0;
@@ -172,7 +175,7 @@ figure {
           transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
         #colorlib-aside #colorlib-main-menu ul li a:hover {
           text-decoration: none;
-          color: black; }
+          color: #FFC600; }
           #colorlib-aside #colorlib-main-menu ul li a:hover:after {
             visibility: visible;
             -webkit-transform: scaleX(1);
@@ -377,7 +380,7 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding: 3em 3em 3em 0em;
+  padding: 3em 3em 3em 1.5em;
   clear: both;
   width: 100%;
   display: block; }
@@ -771,7 +774,7 @@ body.offcanvas {
     .colorlib-feature .colorlib-text h3 {
       font-weight: 600;
       margin-bottom: 20px;
-      color: rgba(0, 0, 0, 0.7);
+      color: #000;
       font-size: 20px;
       letter-spacing: 3px;
       text-transform: uppercase; }
@@ -1354,8 +1357,8 @@ body.offcanvas {
     font-size: 12px;
     font-weight: bold;
     letter-spacing: 2px;
-    background-color:#2770ca; 
-    color:#FFF; 
+    background-color:#FFC600; 
+    color:#000; 
     border-radius:50px; 
     text-align:center; 
     box-shadow: 2px 2px 3px rgba(153, 153, 153, 0); 
@@ -1363,7 +1366,7 @@ body.offcanvas {
 
   .float:hover {  
     transform: scale(1.1);
-    color: #FFF}
+    color: #000}
   }
 
   .float-whatsapp{ 
@@ -1507,8 +1510,8 @@ body.offcanvas {
   }
   
   .pagination .active {
-    background: #2187de;
-    color: #fff;
+    background: #FFC600;
+    color: rgb(0, 0, 0);
     font-weight: 600;
   }
   
@@ -1549,16 +1552,17 @@ body.offcanvas {
   border-radius: 0px 0px 3px 3px;
   border: 0.25px solid #ede8e8;
   margin: 0px 0.5px;
+  font-weight: 400;
  }
 
 .text-search  a{
-  color:rgba(0, 0, 0, 0.7);
+  color:rgb(0, 0, 0);
   margin-bottom: 0px;
   padding-left: 18px
   /* margin-top: 8px; */}
 
 .text-search  p:hover{
-  background:#ffecca;
+  background:#FFC600;
   border-radius: 3px #ede8e8}
 
 .text-search  p{

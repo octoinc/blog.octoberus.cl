@@ -11,7 +11,7 @@ alt-image: Seguridad
 
 <div class="row post-text">
     <div class="col-md-2"></div>
-    <div class="col-md-7">
+    <div class="col-md-8">
     <br>
 
 <p style="text-align:center;"><img src="/images/plataforma-gestion.jpg" width="100%" height="auto" center alt="La seguridad en tus manos"></p><br>
