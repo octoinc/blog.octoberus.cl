@@ -1,11 +1,11 @@
 ---
 layout: post
-title: ¿Cuál es la importancia de contar con un Plan de Seguridad Física?
-day:   11 Noviembre, 2021
+title: Infraestructura crítica y sus alcances
+day:   24 Noviembre, 2021
 categories: Seguridad
 description: Las empresas que poseen infraestructuras críticas, en la actualidad, deben enfrentar riesgos de seguridad de forma continua y constante. Con el avance de la tecnología, las amenazas pueden venir de casi cualquier lugar...
-image: "/images/PSP.png"
-alt-image: Plan de seguridad física
+image: "/images/industria.jpg"
+alt-image: Infraestructura crítica y sus alcances
 
 author: Sebastián Quinteros
 job: Analista Comercial
