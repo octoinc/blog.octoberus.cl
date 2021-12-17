@@ -32,7 +32,10 @@ Esta definición deja en manifiesto de forma expresa que la infraestructura crí
 
 <p>
 En el caso de Chile, luego del estallido social del año 2019 se tuvo que replantear el concepto de infraestructura crítica. Situaciones como los <a href="https://www.elmostrador.cl/noticias/multimedia/2019/11/29/grupo-desconocido-ataca-subestacion-de-cge-en-copiapo/">ataques a subestaciones eléctricas</a> pusieron sobre el tapete la importancia de la seguridad en esta área, lo que derivó inclusive en la reforma de las leyes referentes a la infraestructura crítica, destacándose entre estas la <a href="https://www.senado.cl/noticias/seguridad/infraestructura-critica-plantean-delimitar-el-ambito-de-aplicacion-y">reforma impulsada por el gobierno</a> que busca permitir que el Presidente de la República pueda ordenar que las Fuerzas Armadas resguarden la infraestructura crítica del país cuando exista un peligro grave que la afecte.
-</p>
+</p><br>
+
+<p style="text-align:center;"><img src="/images/titular_ataque_subestacion_CGE.png" width="98%" height="auto" center alt="Titular El Mostrador"></p>
+<p class="tittle">Fuente. <a href="https://www.google.com/search?q=grupo+desconocido+ataca+subestacion&rlz=1C5CHFA_enCL871CL871&oq=grupo+desconocido+ataca+subestacion&aqs=chrome..69i57j33i160l2.6063j0j7&sourceid=chrome&ie=UTF-8" target="_blank">"El Mostrador"</a></p>
 
 <p>
 ¿Por qué se le da este nivel de importancia a la protección de la infraestructura crítica? Para entender el alcance que tendría el mal funcionamiento o la interrupción total de los servicios que esta suministra, debemos ponernos en un escenario en el cual no podemos retirar dinero, no contamos con energía eléctrica, no contamos con suministro de agua e inclusive estamos imposibilitados de contactarnos con nuestra familia o amigos. 
@@ -46,6 +49,9 @@ Un escenario con estas características tiende a convertirse en un desastre prog
 Una situación de esa magnitud se vivió en  Concepción durante el terremoto del año 2010, donde los <a href="https://www.elmundo.es/america/2010/03/01/noticias/1267451809.html">saqueos y la violencia</a> causaron rápidamente un caos generalizado en la zona, que obligó el despliegue de las fuerzas armadas para recuperar el control de la urbe.
 Debido a todo lo mencionado anteriormente, es que los siguientes <a href="https://www.cigre.cl/wp-content/uploads/2018/08/CARLOS-LANDEROS.pdf">sectores han sido considerados como críticos</a> mientras se discuten las reformas a las leyes actuales de infraestructura crítica:
 </p>
+
+<p style="text-align:center;"><img src="/images/sectores_criticos_chile.png" width="98%" height="auto" center alt="Sectores críticos considerados en Chile"></p>
+<p class="tittle">Sectores críticos considerados en Chile</p>
 
 <p>
 En el caso del rubro de la energía eléctrica, en octubre del año 2020 se comienza a solicitar el <b>estándar de ciberseguridad NERC-CIP</b> para todas las empresas reguladas por el Coordinador Eléctrico Nacional. Este estándar, que tiene un origen netamente norteamericano (USA y Canadá), ha sido adoptado por muchos países en América latina debido a que entrega un roadmap para la <b>protección de la infraestructura crítica</b> relacionada a la energía. 
@@ -67,11 +73,17 @@ Nuestra plataforma <a href="http://www.octoberus.cl">Octoberus</a> permite el co
 
 <p>
 Tenemos experiencia en la protección de activos críticos de <b>empresas de generación, transmisión y distribución de energía eléctrica</b>, con las cuales hemos realizado <b>proyectos de seguridad</b> para el <b>control de acceso</b> tanto de bóvedas subterráneas como de subestaciones eléctricas.
-</p>
+</p><br>
+
+<p style="text-align:center;"><img src="/images/sistema-seguridad-energia.png" width="100%" height="auto" center alt="Solucion seguridad bovedas eléctricas"></p>
+<p class="tittle">Solución para una empresa de energía</p>
 
 <p>
 Por otro lado, hemos trabajado también con <b>empresas de telecomunicaciones</b> en la protección de cámaras subterráneas, mediante la utilización de tecnología IoT.
 </p>
+
+<p style="text-align:center;"><img src="/images/sistema-seguridad-telecomunicaciones.png" width="100%" height="auto" center alt="Solución para una empresa de telecomunicación"></p>
+<p class="tittle">Solución para una empresa de telecomunicación</p>
 
 <p>
 Si te interesa saber más sobre Octoberus, te invitamos a escribirnos a contacto@octo.is. ¡Haz de la tecnología tu mejor aliado!
