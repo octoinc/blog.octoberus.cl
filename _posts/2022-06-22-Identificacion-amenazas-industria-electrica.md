@@ -4,8 +4,8 @@ title: Identificación de Amenazas para Instalaciones Eléctricas
 day:   22 Junio, 2022
 categories: Seguridad
 description: Las empresas generadoras y transmisoras de energía eléctrica se han transformado en una necesidad del día a día de las personas, ya que este recurso es utilizado en casi todos los ámbitos de la vida cotidiana...
-image: "/images/"
-alt-image: 
+image: "/images/Security-Risk-Assessment-Home.jpeg"
+alt-image: Evaluación de riesgos
 
 author: Sebastián Quinteros
 job: Analista Comercial
@@ -36,14 +36,14 @@ alt-image-author: Foto Sebastián Quinteros
     <li><b>Actores Maliciosos</b>: Una persona, grupo de personas, organización o nación  que busca realizar daño a un activo.</li>
 </ul><br>
 
-<p style="text-align:center;"><img src="/images/Security-Risk-Assessment.jpeg" width="70%" height="auto" center alt="Plataforma de Seguridad Octoberus"></p>
+<p style="text-align:center;"><img src="/images/Security-Risk-Assessment.jpeg" title="Interacción entre activos, vulnerabilidades, amenazas, controles y actores maliciosos" alt="Interacción entre activos, vulnerabilidades, amenazas, controles y actores maliciosos" width="70%" height="auto" center></p>
 <p class="tittle" style="font-size:14px!important">Interacción entre activos, vulnerabilidades, amenazas, controles y actores maliciosos - Expert Guided Security Risk Assessment of Evolving Power Grids (<a href="https://www.mdpi.com/1996-1073/15/9/3237" target="_blank">https://www.mdpi.com/1996-1073/15/9/3237</a>)</p>
 
 <p>Las amenazas a las que está expuesta una instalación tienen directa relación con factores como su localización geográfica, el rubro al cual está asociada, la empresa a la cual pertenece, entre otros. Inclusive para instalaciones similares que pertenecen a la misma empresa, el solo hecho de encontrarse en diferentes lugares geográficos, va a generar que la evaluación de las amenazas identificadas sean diferentes aun siendo las amenazas en sí las mismas.</p>
 
 <p>Para ejemplificar esta situación se exponen a continuación algunos de los ataques más comunes realizados a instalaciones eléctricas, detallados por expertos en el rubro, obtenidos del artículo <a href="https://www.mdpi.com/1996-1073/15/9/3237" target="_blank">Expert Guided Security Risk Assessment of Evolving Power Grids</a>:</p><br>
 
-<p style="text-align:center;"><img src="/images/Risk-assessment-of-substations.png" width="100%" height="auto" center alt="Plataforma de Seguridad Octoberus"></p>
+<p style="text-align:center;"><img src="/images/Risk-assessment-of-substations.png" title="Tabla con la evaluación de riesgos de subestaciones eléctricas" alt="Tabla con la evaluación de riesgos de subestaciones eléctricas" width="100%" height="auto" center></p>
 <p class="tittle" style="font-size:14px!important">Tabla con la evaluación de riesgos de subestaciones eléctricas - Expert Guided Security Risk Assessment of Evolving Power Grids(<a href="https://www.mdpi.com/1996-1073/15/9/3237" target="_blank">https://www.mdpi.com/1996-1073/15/9/3237</a>)</p>
 
 <p>Los ataques físicos a subestaciones mencionados son:</p>
@@ -56,7 +56,7 @@ alt-image-author: Foto Sebastián Quinteros
 
 <p>Para el caso de las torres de transmisión, los ataques mencionados son:</p>
 
-<p style="text-align:center;"><img src="/images/ Risk-assessment-of-electric-power-lines.png" width="100%" height="auto" center alt="Plataforma de Seguridad Octoberus"></p>
+<p style="text-align:center;"><img src="/images/ Risk-assessment-of-electric-power-lines.png" title="Tabla con la evaluación de riesgos del cableado eléctrico" alt="Tabla con la evaluación de riesgos del cableado eléctrico" width="100%" height="auto" center></p>
 <p class="tittle" style="font-size:14px!important">Tabla con la evaluación de riesgos del cableado eléctrico - Expert Guided Security Risk Assessment of Evolving Power Grids(<a href="https://www.mdpi.com/1996-1073/15/9/3237" target="_blank">https://www.mdpi.com/1996-1073/15/9/3237</a>)</p>
 
 <ol>
@@ -66,7 +66,7 @@ alt-image-author: Foto Sebastián Quinteros
 
 <p>Como contexto, en la tabla presentada a continuación se detalla la composición de los expertos que realizaron el análisis de amenazas anterior:</p>
 
-<p style="text-align:center;"><img src="/images/background-and-geography.png" width="100%" height="auto" center alt="Plataforma de Seguridad Octoberus"></p>
+<p style="text-align:center;"><img src="/images/background-and-geography.png" title="Tabla con los detalles organizacionales y geográficos de los expertos" alt="Tabla con los detalles organizacionales y geográficos de los expertos" width="100%" height="auto" center></p>
 <p class="tittle" style="font-size:14px!important">Tabla con los detalles organizacionales y geográficos de los expertos - Expert Guided Security Risk Assessment of Evolving Power Grids (<a href="https://www.mdpi.com/1996-1073/15/9/3237" target="_blank">https://www.mdpi.com/1996-1073/15/9/3237</a>)</p>
 
 <p>Se puede concluir de la lectura de las tablas que para los expertos (que provienen en su mayoría de Europa), un ataque suicida en las líneas de alto voltaje es una amenaza física lo suficientemente común como para considerarla en conjunto con un acto vandálico de corte de cables. Muy diferentes serían las amenazas identificadas por los expertos si estos residieran en Chile, ya que los ataques terroristas contra infraestructura eléctrica no son tan comunes como en Europa o Estados Unidos y por lo tanto la identificación de los mismos cambiaría drásticamente.</p>
@@ -85,7 +85,7 @@ alt-image-author: Foto Sebastián Quinteros
 
 <p>Contamos además con funcionalidades como el <b>Floor Plan</b>, apartado que pertenece al PSP y nos permite identificar los controles existentes en terreno (physical & technological deployment), saber el estado en el que se encuentran (por lo que no es necesario un gasto de HH en revisión de dispositivos) y gestionar de forma completa nuestro sistema de seguridad.</p>
 
-<p style="text-align:center;"><img src="/images/floor-plan-octoberus.png" width="100%" height="auto" center alt="Plataforma de Seguridad Octoberus"></p>
+<p style="text-align:center;"><img src="/images/floor-plan-octoberus.png" title="Floor Plan" alt="Plataforma Octoberus - Floor Plan" width="100%" height="auto" center></p>
 <p class="tittle" style="font-size:14px!important">Floor Plan - Octoberus</p>
 
 
