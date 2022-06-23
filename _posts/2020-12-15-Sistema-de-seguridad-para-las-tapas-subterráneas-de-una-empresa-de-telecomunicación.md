@@ -3,7 +3,7 @@ layout: post
 title:  "Sistema de seguridad para las tapas subterráneas de una empresa de telecomunicación"
 day:  15 diciembre, 2020
 categories: Seguridad
-author: 'Equipo Octopull'
+author: 'José Castillo'
 description: Un gran problema que viven a diario las empresas es cuidar sus bienes y más aún cuando hablamos de una empresa de telecomunicaciones...
 image: "/images/placa-pozo.png"
 ---

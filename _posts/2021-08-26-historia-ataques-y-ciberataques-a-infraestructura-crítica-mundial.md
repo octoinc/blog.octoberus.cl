@@ -94,19 +94,5 @@ La solución Octo Security cumple con esos altos estándares de ciberseguridad y
 Si te interesa saber más acerca de nuestra solución de seguridad para infraestructura crítica, no dejes de visitar nuestra <a href="https://security.octo.is/index.html" target="blank_"> página</a>.
 </p>
 
-<div class="row container-written">
-<div class="col-md-2">
-</div>
-<div class="col-md-3">
-    <img style="border-radius:50%;" src="/images/Santiago.jpeg" width="110%" height="auto" alt="{{page.alt-image-author}}">
-</div>
-<div class="col-md-7 written">
-    <p>Escrito por:</p>
-    <p><b style="font-size:20px">{{page.author}}</b>
-    <!-- <br>{{page.job}} -->
-    </p>
-</div>
-</div>
-
  <div>{% include calltoaction.html %}</div>
 {% include footer.html %}

@@ -3,7 +3,6 @@ layout: post
 title:  "Entendiendo la implementación del estándar CIP-014"
 day:  19 agosto, 2021
 categories: Seguridad
-author: 'Equipo Octopull'
 description: El 16 Abril de 2013 ocurre el ataque a la subestación eléctrica Metcalf de propiedad de la empresa Pacific Gas and Electric Company (PG&E’s) En un principio se creía que el ataque a los 17 transformadores...
 image: "/images/plan-de-seguridad.jpeg"
 

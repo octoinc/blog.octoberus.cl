@@ -3,12 +3,10 @@ layout: post
 title:  "Conoce los estándares de ciberseguridad para el sector eléctrico"
 day:  05 agosto, 2021
 categories: Seguridad
-author: 'Equipo Octopull'
+author: 'Santiago Valdivieso'
 description: El número de participantes en el mercado eléctrico crece rápida y sostenidamente y junto a ello se suma la erupción de nuevas tecnologías (internet de las cosas, big data, inteligencia artificial y otras)...
 image: "/images/seguridad.png"
 alt-image: Ciberseguridad NERC-CIP
-
-author: Equipo OCTO INC.
 ---
 
 <div class="row post-text">
@@ -111,20 +109,6 @@ De esta manera, luego de dos importantes reuniones de seguridad y comunicación 
 <li><b>CIP-0013</b> Ciberseguridad: Gestión de Riesgos en la Cadena de Suministros</li>
 <li><b>CIP-0014</b> Ciberseguridad: Seguridad Física</li>
 </ul>
-
-<div class="row container-written">
-<div class="col-md-2">
-</div>
-<!-- <div class="col-md-3">
-    <img style="border-radius:50%;" src="{{page.image-author}}" width="110%" height="auto" alt="{{page.alt-image-author}}">
-</div> -->
-<div class="col-md-7 written">
-    <p>Escrito por:</p>
-    <p><b style="font-size:20px">{{page.author}}</b>
-    <!-- <br>{{page.job}} -->
-    </p>
-</div>
-</div>
 
  <div>{% include calltoaction.html %}</div>
 {% include footer.html %}
