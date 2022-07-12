@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://blog.octoberus.cl/</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/index.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/team.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.00</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/page2/</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/page3/</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2022/07/05/Elaborar-plan-segurad.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2022/06/22/Identificacion-amenazas-industria-electrica.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2022/01/28/camaras.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/12/16/10-consejos-de-seguridad.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/11/24/Infraestructura-cr%C3%ADtica-y-sus-alcances.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/11/11/Plan-de-seguridad-fisica.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/09/02/Nodo-Octoberus-para-el-control-de-acceso.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/08/26/historia-ataques-y-ciberataques-a-infraestructura-cr%C3%ADtica-mundial.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/08/19/Entendiendo-la-implementacion-del-CIP-014.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/08/12/CIP-002.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2021/08/05/Estandar-NERC-CIP.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2020/12/15/Sistema-de-seguridad-para-las-tapas-subterr%C3%A1neas-de-una-empresa-de-telecomunicaci%C3%B3n.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2020/11/11/p.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2020/10/06/Controla-los-accesos-a-tus-instalaciones-mediante-nuestra-aplicaci%C3%B3n-de-seguridad.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blog.octoberus.cl/seguridad/2020/09/17/Sistema-seguridad-como-sentidos.html</loc>
+  <lastmod>2022-07-05T19:50:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
